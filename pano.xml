@@ -8,7 +8,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="180" fov="150" projection="4" tilt="0"/>
+      <start pan="180" fov="120" projection="4" tilt="0"/>
       <flyin pan="180" fov="150" projection="4" tilt="0"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max scaletofit="1" fovfisheye="360" fovstereographic="330" pan="360" fov="140" tilt="90"/>
@@ -17,7 +17,7 @@
     <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
       <label enabled="1" background="1" bordercolor="0x000000" borderalpha="1" height="20" width="180" border="1" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" textcolor="0x000000" textalpha="1" wordwrap="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" url="{node2}" pan="-180.51" id="Point01" target="" title="" description="" tilt="-1.33"/>
+      <hotspot skinid="ht_node" url="{node2}" pan="-180.63" id="Point01" target="$fwd" title="" description="" tilt="-1.75"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomout="0" zoomafterinfov="140" blendtime="1" zoomspeed="2" softedge="0" zoomoutpause="1" delay="none" blendcolor="0x000000" zoomfov="40" zoomin="0" type="crossdissolve" zoomafteroutfov="40"/>
