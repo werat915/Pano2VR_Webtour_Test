@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.9/20995
 // Filename: Test.ggsk
-// Generated 2025-07-08T15:51:36
+// Generated 2025-07-08T16:19:22
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -540,6 +540,32 @@ function pano2vrSkin(player,base) {
 		me._image_3.ggUpdatePosition=function (useTransition) {
 		}
 		me.divSkin.appendChild(me._image_3);
+		el=me.__=document.createElement('div');
+		el.ggId="\u9640\u87ba\u5100";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_container ";
+		el.ggType='container';
+		hs ='';
+		hs+='height : 1px;';
+		hs+='left : 0px;';
+		hs+='position : absolute;';
+		hs+='top : 0px;';
+		hs+='visibility : inherit;';
+		hs+='width : 1px;';
+		hs+='pointer-events:none;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__.ggIsActive=function() {
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			return player.getCurrentNode();
+		}
+		me.__.ggUpdatePosition=function (useTransition) {
+		}
+		me.divSkin.appendChild(me.__);
+		player.setUseGyro(true);
 		player.addListener('changenode', function(event) {
 			if (hotspotTemplates.hasOwnProperty('ht_node')) {
 				for(var i = 0; i < hotspotTemplates['ht_node'].length; i++) {
