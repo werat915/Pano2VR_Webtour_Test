@@ -44,6 +44,7 @@
       <hotspot pan="-312.64" target="$fwd" url="{node1}" id="Point01" title="" skinid="ht_node" tilt="1.19" description=""/>
       <hotspot pan="-174.74" target="$fwd" url="{node3}" id="Point02" title="" skinid="ht_node" tilt="-6.55" description=""/>
       <hotspot pan="-254.73" target="" url="{node16}" id="Point03" title="" skinid="ht_node" tilt="-3.6" description=""/>
+      <hotspot pan="-118.28" target="_self" url="C43p8h99Cs0" id="Point04" title="" skinid="ht_video_youtube" tilt="-10.94" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
@@ -301,11 +302,7 @@
       <hotspot pan="-259.59" target="" url="{node10}" id="Point02" title="" skinid="ht_node" tilt="-3.44" description=""/>
       <hotspot pan="-68.81" target="" url="{node14}" id="Point03" title="" skinid="ht_node" tilt="-3.06" description=""/>
     </hotspots>
-    <media>
-      <video width="1080" nodechangekeep="0" level="1.000" popbackmode="0" ambientlevel="0.000" pan="-143.022" startmutedmobile="0" rotx="-8.628" id="Element01" fov="7.260" stretch="1.000" popoutscaling="100" field="0.000" clickmode="1" tilt="-6.627" rotz="-1.048" tiltsize="0.000" mode="3" loop="-1" roty="-15.194" pansize="0.000" height="1920" handcursor="1" hidepinned="0">
-        <source url="media/_-8.mp4"/>
-      </video>
-    </media>
+    <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" zoomcentercursor="1" invertcontrol="1" speedwheel="1" sensitivity="8" contextprojections="0" contextfullscreen="1" dblclickfullscreen="0"/>
