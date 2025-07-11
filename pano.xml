@@ -95,6 +95,7 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot pan="-342.33" target="" url="{node6}" id="Point01" title="" skinid="ht_node" tilt="-1.48" description=""/>
       <hotspot pan="-138.79" target="" url="{node3}" id="Point02" title="" skinid="ht_node" tilt="-6.18" description=""/>
+      <hotspot pan="-5.04" target="" url="C43p8h99Cs0" id="Point03" title="" skinid="ht_video_youtube" tilt="-5.48" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
@@ -146,6 +147,7 @@
       <hotspot pan="-99.76" target="" url="{node6}" id="Point01" title="" skinid="ht_node" tilt="-1.43" description=""/>
       <hotspot pan="-322.8" target="" url="{node8}" id="Point02" title="" skinid="ht_node" tilt="0.32" description=""/>
       <hotspot pan="-4.6" target="" url="{node9}" id="Point03" title="" skinid="ht_node" tilt="0.62" description=""/>
+      <hotspot pan="-298.98" target="" url="C43p8h99Cs0" id="Point04" title="" skinid="ht_video_youtube" tilt="-3.55" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
@@ -171,6 +173,7 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot pan="-52.87" target="" url="{node7}" id="Point01" title="" skinid="ht_node" tilt="-0.85" description=""/>
       <hotspot pan="-329.66" target="" url="{node9}" id="Point02" title="" skinid="ht_node" tilt="-1.23" description=""/>
+      <hotspot pan="-91.44" target="" url="C43p8h99Cs0" id="Point03" title="" skinid="ht_video_youtube" tilt="-5.79" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
@@ -197,9 +200,7 @@
       <hotspot pan="-336.55" target="" url="{node8}" id="Point01" title="" skinid="ht_node" tilt="-0.01" description=""/>
       <hotspot pan="-261.63" target="" url="{node7}" id="Point02" title="" skinid="ht_node" tilt="-2.16" description=""/>
       <hotspot pan="-85.81" target="" url="{node10}" id="Point03" title="" skinid="ht_node" tilt="-0.48" description=""/>
-      <polyhotspot target="_blank" url="https://www.spaceweatherlive.com/zh/tai-yang-huo-dong.html" id="Poly01" title="全球Kp指數即時數據直播" description="">
-        <polystring>-125.17/9.26|-125.25/1.99|-137.05/2.1|-137.02/9.7</polystring>
-      </polyhotspot>
+      <hotspot pan="-130.62" target="_blank" url="https://www.spaceweatherlive.com/zh.html" id="Point04" title="" skinid="ht_url" tilt="5.32" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
@@ -226,6 +227,7 @@
       <hotspot pan="-328.75" target="" url="{node11}" id="Point01" title="" skinid="ht_node" tilt="1.74" description=""/>
       <hotspot pan="-239.49" target="" url="{node9}" id="Point02" title="" skinid="ht_node" tilt="-4.62" description=""/>
       <hotspot pan="-157.86" target="" url="{node12}" id="Point03" title="" skinid="ht_node" tilt="-3.34" description=""/>
+      <hotspot pan="-7.75" target="" url="C43p8h99Cs0" id="Point04" title="" skinid="ht_video_youtube" tilt="-4.09" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
@@ -275,6 +277,8 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot pan="-159.17" target="" url="{node10}" id="Point01" title="" skinid="ht_node" tilt="-2.89" description=""/>
       <hotspot pan="-212.45" target="" url="{node13}" id="Point02" title="" skinid="ht_node" tilt="-3.05" description=""/>
+      <hotspot pan="-120.45" target="" url="C43p8h99Cs0" id="Point03" title="" skinid="ht_video_youtube" tilt="-3.69" description=""/>
+      <hotspot pan="-244.28" target="" url="C43p8h99Cs0" id="Point04" title="" skinid="ht_video_youtube" tilt="-4.13" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
@@ -301,6 +305,8 @@
       <hotspot pan="-187.72" target="" url="{node12}" id="Point01" title="" skinid="ht_node" tilt="-3.92" description=""/>
       <hotspot pan="-259.59" target="" url="{node10}" id="Point02" title="" skinid="ht_node" tilt="-3.44" description=""/>
       <hotspot pan="-68.81" target="" url="{node14}" id="Point03" title="" skinid="ht_node" tilt="-3.06" description=""/>
+      <hotspot pan="-142.78" target="" url="C43p8h99Cs0" id="Point04" title="" skinid="ht_video_youtube" tilt="-7.37" description=""/>
+      <hotspot pan="-343.21" target="" url="C43p8h99Cs0" id="Point05" title="" skinid="ht_video_youtube" tilt="-2.64" description=""/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
