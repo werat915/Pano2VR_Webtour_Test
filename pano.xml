@@ -19,7 +19,9 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1"/>
       <hotspot pan="-180.63" target="$fwd" url="{node2}" id="Point01" title="" skinid="ht_node" tilt="-1.75" description=""/>
     </hotspots>
-    <media/>
+    <media>
+      <lensflare pan="-33.030" alpha="80.000" type="1" blinding="50.000" id="Lensflare01" color="0xffffff" tilt="36.000"/>
+    </media>
     <transition zoomafteroutfov="40" blendcolor="0x000000" zoomafterinfov="140" zoomspeed="2" delay="none" type="crossdissolve" zoomin="0" zoomout="0" enabled="1" zoomoutpause="1" blendtime="1" softedge="0" zoomfov="40"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
     <control simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" rubberband="0" lockedmouse="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" zoomcentercursor="1" invertcontrol="1" speedwheel="1" sensitivity="8" contextprojections="0" contextfullscreen="1" dblclickfullscreen="0"/>
